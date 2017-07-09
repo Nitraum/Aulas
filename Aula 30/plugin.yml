@@ -1,0 +1,7 @@
+name: Aula30
+version: 1.0
+authors: [THG]
+main: com.tke.aula30.Main
+commands:
+  item:
+  teste:
