@@ -1,0 +1,4 @@
+name: Scoreboard
+version: 1.0
+authors: [THG]
+main: com.tke.scoreboard.Main
